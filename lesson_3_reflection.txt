@@ -1,2 +1,5 @@
 When would you want to use a remote repository rather than keeping all your work local?
-  When working with multiple contributers or from multiple systems. Also as a backup
+	When working with multiple contributers or from multiple systems. Also as a backup
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+	You only want changes to be in your local if you are ready for it meaning you functional block is working/finished
