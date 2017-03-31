@@ -8,3 +8,6 @@ Describe the differences between forks, clones, and branches. When would you use
 	Fork = clone of exising repository from an unmodifiable source (to create new ways in a project that is not yours and you're not a contributer)
 	Clone = clone from a remote source on your local systems (work locally from a remote source)
 	Branch = a new path in an existing repository derived from master (useable to add new functionallity untill its working)
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+	To know when to merge or to ffw merge
