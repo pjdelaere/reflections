@@ -3,3 +3,8 @@ When would you want to use a remote repository rather than keeping all your work
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 	You only want changes to be in your local if you are ready for it meaning you functional block is working/finished
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+	Fork = clone of exising repository from an unmodifiable source (to create new ways in a project that is not yours and you're not a contributer)
+	Clone = clone from a remote source on your local systems (work locally from a remote source)
+	Branch = a new path in an existing repository derived from master (useable to add new functionallity untill its working)
